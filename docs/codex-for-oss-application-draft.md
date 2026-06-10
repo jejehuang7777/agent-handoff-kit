@@ -6,8 +6,8 @@ the repository is public.
 
 ## Checklist
 
-- Public GitHub username: `TODO`
-- Public repository URL: `TODO`
+- Public GitHub username: `jejehuang7777`
+- Public repository URL: `https://github.com/jejehuang7777/agent-handoff-kit`
 - Maintainer role: `Primary maintainer`
 - OpenAI organization ID, if requesting API credits: `TODO`
 - Repo has README, license, examples, validation script, and issue templates
@@ -40,9 +40,9 @@ which templates deserve to become more structured.
 ## Evidence To Add Later
 
 - public repository URL
+- `https://github.com/jejehuang7777/agent-handoff-kit`
 - first release URL
 - adoption reports
 - forks or external mentions
 - example downstream repositories
 - validation output from maintainers
-
