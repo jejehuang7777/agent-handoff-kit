@@ -12,7 +12,7 @@ It gives agents a stable startup file, task board, source gate, handoff packet,
 and write-back log so work can continue across sessions without private project
 history being dumped into the repo.
 
-Repo: `REPO_URL`
+Repo: `https://github.com/jejehuang7777/agent-handoff-kit`
 
 I am looking for maintainers willing to try one workflow and report what breaks:
 issue triage, PR review, bug fix handoff, or release prep.
@@ -35,7 +35,7 @@ What is included:
 - one fully synthetic example
 - a local validation script
 
-Repo: `REPO_URL`
+Repo: `https://github.com/jejehuang7777/agent-handoff-kit`
 
 I am especially looking for feedback from maintainers using Codex or other
 coding agents in real issue, PR, review, or release workflows.
@@ -48,7 +48,7 @@ Markdown, no service or database.
 Would you be willing to try it on one workflow in your repo, such as bug fix
 handoff or PR review, and open an adoption report with what was confusing?
 
-Repo: `REPO_URL`
+Repo: `https://github.com/jejehuang7777/agent-handoff-kit`
 
 The useful feedback is not praise. The useful feedback is where the template
 made the next agent clearer, and where it still got in your way.
@@ -66,4 +66,3 @@ Agent Handoff Kit v0.1 starts with the minimum workflow surface:
 The next milestone is not more templates by default. The next milestone is
 first-catcher feedback from maintainers using the kit in real or synthetic
 agent workflows.
-
