@@ -17,6 +17,16 @@ Repo: `https://github.com/jejehuang7777/agent-handoff-kit`
 I am looking for maintainers willing to try one workflow and report what breaks:
 issue triage, PR review, bug fix handoff, or release prep.
 
+## 短版中文貼文
+
+我做了一個 Agent Handoff Kit：給長任務 AI coding agent 用的 Markdown 交接模板。
+
+它提供固定啟動入口、任務板、source gate、handoff packet 和 write-back log，讓 AI 工作可以跨 session 接續，又不需要把私密專案歷史丟進公開 repo。
+
+Repo: `https://github.com/jejehuang7777/agent-handoff-kit`
+
+我想找願意試一個 workflow 的維護者回報哪裡卡住：issue triage、PR review、bug fix handoff 或 release prep 都可以。
+
 ## Maintainer Community Post
 
 AI coding agents are fast, but long maintainer workflows still break in simple
@@ -40,6 +50,24 @@ Repo: `https://github.com/jejehuang7777/agent-handoff-kit`
 I am especially looking for feedback from maintainers using Codex or other
 coding agents in real issue, PR, review, or release workflows.
 
+## 中文維護者社群貼文
+
+AI coding agent 很快，但長任務維護流程還是常在幾個地方斷掉：下一個 session 不知道前面查過什麼、推測變成確認、重要決策留在聊天裡。
+
+Agent Handoff Kit 是一個很輕的 Markdown 操作表面，不是 framework，也不是資料庫。它讓任務狀態、來源檢查、交接包和寫回紀錄留在 repo 裡，方便下一輪 agent 或維護者接手。
+
+目前包含：
+
+- startup / agent role templates
+- task board / handoff packet templates
+- source gate / write-back log templates
+- 完整合成範例
+- 本地 validation script
+
+Repo: `https://github.com/jejehuang7777/agent-handoff-kit`
+
+我特別想找正在用 Codex 或其他 coding agents 做 issue、PR、review、release 流程的人試用，回報哪裡有用、哪裡礙手。
+
 ## Direct Maintainer Ask
 
 I am testing a small open-source kit for AI agent handoffs. It is plain
@@ -52,6 +80,16 @@ Repo: `https://github.com/jejehuang7777/agent-handoff-kit`
 
 The useful feedback is not praise. The useful feedback is where the template
 made the next agent clearer, and where it still got in your way.
+
+## 中文直接邀請
+
+我在測一個很小的 open-source kit，目標是讓 AI agent handoff 更穩。它只是 Markdown，沒有服務、資料庫或額外平台。
+
+你願不願意在你的 repo 裡挑一個 workflow 試一下，例如 bug fix handoff 或 PR review，然後開一張 adoption report 說哪裡不清楚？
+
+Repo: `https://github.com/jejehuang7777/agent-handoff-kit`
+
+我最需要的不是稱讚，而是：哪一個模板讓下一個 agent 更清楚？哪一個地方反而造成負擔？
 
 ## Release Note
 
