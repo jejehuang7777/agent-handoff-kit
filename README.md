@@ -59,6 +59,19 @@ npm test
 
 No external package install is required.
 
+## Try The Synthetic Example
+
+Use the included fictional maintainer case to test the workflow without touching
+private project history:
+
+```text
+Use examples/fictional-web-maintainer as your handoff workspace.
+Read START_HERE.md and continue TASK-0001.
+```
+
+If you try the kit in another repository, open an adoption report and describe
+which workflow you tested.
+
 ## Who It Is For
 
 - open-source maintainers using Codex or other coding agents
@@ -115,6 +128,7 @@ The initial adoption loop is intentionally small:
 
 See `docs/adoption-playbook.md` for the first seven days after launch and
 `docs/launch-posts.md` for copy that can be adapted to public channels.
+Use `docs/first-catcher-readiness-review.md` before the first outreach pass.
 
 ## Status
 
