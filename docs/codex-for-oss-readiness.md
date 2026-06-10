@@ -40,7 +40,10 @@ across repeated agent sessions.
 
 ## Current Gap Before Applying
 
-The repo still needs a public GitHub URL and at least one first-catcher path in
-use. The application should not treat a local commit as adoption proof. Use
-`docs/adoption-playbook.md` and the issue templates to create a feedback loop
-before making strong claims about external usage.
+The repo now has a public GitHub URL:
+`https://github.com/jejehuang7777/agent-handoff-kit`.
+
+The remaining gap is first-catcher usage. The application should not treat a
+published repo as adoption proof. Use `docs/adoption-playbook.md` and the issue
+templates to create a feedback loop before making strong claims about external
+usage.
