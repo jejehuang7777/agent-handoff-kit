@@ -1,0 +1,20 @@
+{
+  "name": "agent-handoff-kit",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Markdown workflows for long-running AI coding agents.",
+  "type": "module",
+  "scripts": {
+    "test": "node scripts/check-kit.mjs"
+  },
+  "keywords": [
+    "codex",
+    "ai-agents",
+    "maintenance",
+    "handoff",
+    "markdown",
+    "open-source"
+  ],
+  "license": "MIT"
+}
+
