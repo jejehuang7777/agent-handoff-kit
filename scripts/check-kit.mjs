@@ -20,7 +20,9 @@ const requiredFiles = [
   "docs/design-principles.md",
   "docs/adoption-playbook.md",
   "docs/launch-posts.md",
+  "docs/first-catcher-readiness-review.md",
   "docs/codex-for-oss-application-draft.md",
+  "docs/codex-for-oss-submission-packet.md",
   "ROADMAP.md",
   ".github/ISSUE_TEMPLATE/adoption-report.md",
   ".github/ISSUE_TEMPLATE/workflow-request.md"
