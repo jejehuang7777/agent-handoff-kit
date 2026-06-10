@@ -57,6 +57,17 @@ npm test
 
 不需要安裝外部 npm package。
 
+## 試用合成範例
+
+可以先用內建的虛構維護者案例測試流程，不碰任何私密專案歷史：
+
+```text
+Use examples/fictional-web-maintainer as your handoff workspace.
+Read START_HERE.md and continue TASK-0001.
+```
+
+如果你把這個 kit 試在其他 repo，請開一張 adoption report，說明你測的是哪一種 workflow。
+
 ## 適合誰
 
 - 使用 Codex 或其他 coding agents 的開源維護者
@@ -110,6 +121,8 @@ npm test
 3. 用 adoption report 和 workflow request issues 收回饋。
 4. 把重複出現的混亂點改成模板更新。
 5. 私密專案脈絡留在私密 repo，不放進公開 repo。
+
+第一次對外分享前，先讀 `docs/first-catcher-readiness-review.md`。
 
 ## 狀態
 
